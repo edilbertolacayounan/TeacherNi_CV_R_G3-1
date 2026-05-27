@@ -56,3 +56,4 @@ Estudiante: Juan Alberto Juarez Estrada - Hora: 08:33 AM - Fecha: 26/05/2026
 Estudiante: Derly Antonella Gomez Picado - Hora: 08:56 AM - Fecha: 26/05/2026
 Estudiante: Eddy Darwin Gonzalez Sevilla - Hora: 08:58 AM - Fecha: 26/05/2026
 Estuadiante:Jeymi Amarellys Lacayo Arguello  - Hora:11:47 AM -Fecha: 26/05/2026
+Estudiante: Josue Aaron Guido Lopez - Hora: 09:39 PM - Fecha: 26/05/2026
