@@ -52,3 +52,7 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
 
 #UNA VEZ TERMINADO, AGREGA TU NOMBRE, APELLIDOS Y Fecha y HORA.
 
+Estudiante: Juan Alberto Juarez Estrada - Hora: 08:33 AM - Fecha: 26/05/2026
+Estudiante: Derly Antonella Gomez Picado - Hora: 08:56 AM - Fecha: 26/05/2026
+Estudiante: Eddy Darwin Gonzalez Sevilla - Hora: 08:58 AM - Fecha: 26/05/2026
+Estuadiante:Jeymi Amarellys Lacayo Arguello  - Hora:11:47 AM -Fecha: 26/05/2026
